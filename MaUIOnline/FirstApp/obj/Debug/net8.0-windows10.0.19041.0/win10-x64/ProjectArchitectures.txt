@@ -1,0 +1,1 @@
+F:\RnD\maui-self-learning\MaUIOnline\FirstApp\FirstApp.csproj;x64

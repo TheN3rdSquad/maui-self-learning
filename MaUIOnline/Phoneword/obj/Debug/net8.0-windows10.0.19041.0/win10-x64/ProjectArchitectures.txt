@@ -1,0 +1,1 @@
+F:\RnD\maui-self-learning\MaUIOnline\Phoneword\Phoneword.csproj;x64
